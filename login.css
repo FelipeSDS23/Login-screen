@@ -136,6 +136,8 @@ footer {
     bottom: 0px;
     width: 100%;
     text-align: center;
+    color: #82777C;
+    font-size: 15px;
 }
 
 @media only screen and (max-width: 600px) {
